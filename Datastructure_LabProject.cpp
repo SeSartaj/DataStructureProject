@@ -6,6 +6,8 @@
 #include <ctime>
 #include <string>
 
+// Hello world
+
 bool gameover;
 const unsigned char BLACK = 219;
 int COLUMNS;
